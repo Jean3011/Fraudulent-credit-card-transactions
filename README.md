@@ -6,7 +6,7 @@ using services or goods. Hackers or fraudsters may obtain the confidential detai
 compromises an individuals creditdebit card, everyone involved in the process suffers, right from the individual whose confidential data 
 has been leaked to the businesses generally banks who issue the credit card and the merchant who is finalizing the transaction with purchase.
  
- The dataset used for this project was taken from Kaggle
+ The dataset used for this project was taken from Kaggle and can be found: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
  
 ## Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
