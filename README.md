@@ -1,4 +1,4 @@
-# Fraudulent-credit-card-transactions
+# Fraudulent credit card transactions
 ## Analyzing different machine learning algorithms to find the most suitable taking into account that data is probably highly imbalanced
 
 Credit card fraud is a term that has been coined for unauthorized access of payment cards like credit cards or debit cards to pay for 
